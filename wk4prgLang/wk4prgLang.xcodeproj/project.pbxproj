@@ -7,12 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7D3FF7861EA86E9D0094E8D0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7D3FF7851EA86E9D0094E8D0 /* main.cpp */; };
-		7D84BEAD1EAA87470030EF4D /* source.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7D84BEAC1EAA87470030EF4D /* source.cpp */; };
+		7D51E7D71EB1440300BA38F8 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7D51E7D61EB1440300BA38F8 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		7D3FF7801EA86E9D0094E8D0 /* CopyFiles */ = {
+		7D51E7D11EB1440300BA38F8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -24,14 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		7D3FF7821EA86E9D0094E8D0 /* hw3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hw3; sourceTree = BUILT_PRODUCTS_DIR; };
-		7D3FF7851EA86E9D0094E8D0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		7D84BEA91EAA869C0030EF4D /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
-		7D84BEAC1EAA87470030EF4D /* source.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = source.cpp; sourceTree = "<group>"; };
+		7D51E7D31EB1440300BA38F8 /* wk4prgLang */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = wk4prgLang; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D51E7D61EB1440300BA38F8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7D3FF77F1EA86E9D0094E8D0 /* Frameworks */ = {
+		7D51E7D01EB1440300BA38F8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,98 +38,95 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7D3FF7791EA86E9D0094E8D0 = {
+		7D51E7CA1EB1440300BA38F8 = {
 			isa = PBXGroup;
 			children = (
-				7D3FF7841EA86E9D0094E8D0 /* hw3 */,
-				7D3FF7831EA86E9D0094E8D0 /* Products */,
+				7D51E7D51EB1440300BA38F8 /* wk4prgLang */,
+				7D51E7D41EB1440300BA38F8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7D3FF7831EA86E9D0094E8D0 /* Products */ = {
+		7D51E7D41EB1440300BA38F8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7D3FF7821EA86E9D0094E8D0 /* hw3 */,
+				7D51E7D31EB1440300BA38F8 /* wk4prgLang */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7D3FF7841EA86E9D0094E8D0 /* hw3 */ = {
+		7D51E7D51EB1440300BA38F8 /* wk4prgLang */ = {
 			isa = PBXGroup;
 			children = (
-				7D84BEA91EAA869C0030EF4D /* Header.h */,
-				7D84BEAC1EAA87470030EF4D /* source.cpp */,
-				7D3FF7851EA86E9D0094E8D0 /* main.cpp */,
+				7D51E7D61EB1440300BA38F8 /* main.cpp */,
 			);
-			path = hw3;
+			path = wk4prgLang;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7D3FF7811EA86E9D0094E8D0 /* hw3 */ = {
+		7D51E7D21EB1440300BA38F8 /* wk4prgLang */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7D3FF7891EA86E9D0094E8D0 /* Build configuration list for PBXNativeTarget "hw3" */;
+			buildConfigurationList = 7D51E7DA1EB1440300BA38F8 /* Build configuration list for PBXNativeTarget "wk4prgLang" */;
 			buildPhases = (
-				7D3FF77E1EA86E9D0094E8D0 /* Sources */,
-				7D3FF77F1EA86E9D0094E8D0 /* Frameworks */,
-				7D3FF7801EA86E9D0094E8D0 /* CopyFiles */,
+				7D51E7CF1EB1440300BA38F8 /* Sources */,
+				7D51E7D01EB1440300BA38F8 /* Frameworks */,
+				7D51E7D11EB1440300BA38F8 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = hw3;
-			productName = hw3;
-			productReference = 7D3FF7821EA86E9D0094E8D0 /* hw3 */;
+			name = wk4prgLang;
+			productName = wk4prgLang;
+			productReference = 7D51E7D31EB1440300BA38F8 /* wk4prgLang */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7D3FF77A1EA86E9D0094E8D0 /* Project object */ = {
+		7D51E7CB1EB1440300BA38F8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Kyleen Gonzalez";
 				TargetAttributes = {
-					7D3FF7811EA86E9D0094E8D0 = {
+					7D51E7D21EB1440300BA38F8 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 7D3FF77D1EA86E9D0094E8D0 /* Build configuration list for PBXProject "hw3" */;
+			buildConfigurationList = 7D51E7CE1EB1440300BA38F8 /* Build configuration list for PBXProject "wk4prgLang" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 7D3FF7791EA86E9D0094E8D0;
-			productRefGroup = 7D3FF7831EA86E9D0094E8D0 /* Products */;
+			mainGroup = 7D51E7CA1EB1440300BA38F8;
+			productRefGroup = 7D51E7D41EB1440300BA38F8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7D3FF7811EA86E9D0094E8D0 /* hw3 */,
+				7D51E7D21EB1440300BA38F8 /* wk4prgLang */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7D3FF77E1EA86E9D0094E8D0 /* Sources */ = {
+		7D51E7CF1EB1440300BA38F8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D84BEAD1EAA87470030EF4D /* source.cpp in Sources */,
-				7D3FF7861EA86E9D0094E8D0 /* main.cpp in Sources */,
+				7D51E7D71EB1440300BA38F8 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		7D3FF7871EA86E9D0094E8D0 /* Debug */ = {
+		7D51E7D81EB1440300BA38F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -179,7 +173,7 @@
 			};
 			name = Debug;
 		};
-		7D3FF7881EA86E9D0094E8D0 /* Release */ = {
+		7D51E7D91EB1440300BA38F8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -219,14 +213,14 @@
 			};
 			name = Release;
 		};
-		7D3FF78A1EA86E9D0094E8D0 /* Debug */ = {
+		7D51E7DB1EB1440300BA38F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		7D3FF78B1EA86E9D0094E8D0 /* Release */ = {
+		7D51E7DC1EB1440300BA38F8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -236,25 +230,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7D3FF77D1EA86E9D0094E8D0 /* Build configuration list for PBXProject "hw3" */ = {
+		7D51E7CE1EB1440300BA38F8 /* Build configuration list for PBXProject "wk4prgLang" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7D3FF7871EA86E9D0094E8D0 /* Debug */,
-				7D3FF7881EA86E9D0094E8D0 /* Release */,
+				7D51E7D81EB1440300BA38F8 /* Debug */,
+				7D51E7D91EB1440300BA38F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7D3FF7891EA86E9D0094E8D0 /* Build configuration list for PBXNativeTarget "hw3" */ = {
+		7D51E7DA1EB1440300BA38F8 /* Build configuration list for PBXNativeTarget "wk4prgLang" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7D3FF78A1EA86E9D0094E8D0 /* Debug */,
-				7D3FF78B1EA86E9D0094E8D0 /* Release */,
+				7D51E7DB1EB1440300BA38F8 /* Debug */,
+				7D51E7DC1EB1440300BA38F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7D3FF77A1EA86E9D0094E8D0 /* Project object */;
+	rootObject = 7D51E7CB1EB1440300BA38F8 /* Project object */;
 }

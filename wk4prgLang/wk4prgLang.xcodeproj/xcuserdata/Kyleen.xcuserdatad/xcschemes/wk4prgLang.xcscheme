@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7D3FF7811EA86E9D0094E8D0"
-               BuildableName = "hw3"
-               BlueprintName = "hw3"
-               ReferencedContainer = "container:hw3.xcodeproj">
+               BlueprintIdentifier = "7D51E7D21EB1440300BA38F8"
+               BuildableName = "wk4prgLang"
+               BlueprintName = "wk4prgLang"
+               ReferencedContainer = "container:wk4prgLang.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7D3FF7811EA86E9D0094E8D0"
-            BuildableName = "hw3"
-            BlueprintName = "hw3"
-            ReferencedContainer = "container:hw3.xcodeproj">
+            BlueprintIdentifier = "7D51E7D21EB1440300BA38F8"
+            BuildableName = "wk4prgLang"
+            BlueprintName = "wk4prgLang"
+            ReferencedContainer = "container:wk4prgLang.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -47,7 +47,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/Kyleen/Desktop/CS_381/hw3/hw3"
+      customWorkingDirectory = "/Users/Kyleen/Desktop/wk4prgLang/wk4prgLang"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -56,10 +56,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7D3FF7811EA86E9D0094E8D0"
-            BuildableName = "hw3"
-            BlueprintName = "hw3"
-            ReferencedContainer = "container:hw3.xcodeproj">
+            BlueprintIdentifier = "7D51E7D21EB1440300BA38F8"
+            BuildableName = "wk4prgLang"
+            BlueprintName = "wk4prgLang"
+            ReferencedContainer = "container:wk4prgLang.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7D3FF7811EA86E9D0094E8D0"
-            BuildableName = "hw3"
-            BlueprintName = "hw3"
-            ReferencedContainer = "container:hw3.xcodeproj">
+            BlueprintIdentifier = "7D51E7D21EB1440300BA38F8"
+            BuildableName = "wk4prgLang"
+            BlueprintName = "wk4prgLang"
+            ReferencedContainer = "container:wk4prgLang.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
