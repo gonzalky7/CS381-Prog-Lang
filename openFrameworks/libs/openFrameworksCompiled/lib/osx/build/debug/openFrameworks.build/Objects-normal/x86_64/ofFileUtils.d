@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/utils/ofFileUtils.cpp \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/utils/ofFileUtils.cpp \
   ../../../../libs/openFrameworks/utils/ofFileUtils.h \
   ../../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
@@ -398,10 +398,10 @@ dependencies: \
   ../../../../libs/utf8cpp/include/utf8/core.h \
   ../../../../libs/utf8cpp/include/utf8/unchecked.h \
   ../../../../libs/openFrameworks/utils/ofLog.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h

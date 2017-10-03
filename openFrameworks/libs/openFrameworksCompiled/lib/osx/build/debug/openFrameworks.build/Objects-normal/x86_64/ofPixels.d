@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/graphics/ofPixels.cpp \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/graphics/ofPixels.cpp \
   ../../../../libs/openFrameworks/graphics/ofPixels.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
   ../../../../libs/utf8cpp/include/utf8.h \
   ../../../../libs/utf8cpp/include/utf8/checked.h \
   ../../../../libs/utf8cpp/include/utf8/core.h \
@@ -399,10 +399,10 @@ dependencies: \
   ../../../../libs/boost/include/boost/range/detail/msvc_has_iterator_workaround.hpp \
   ../../../../libs/boost/include/boost/range/const_iterator.hpp \
   ../../../../libs/boost/include/boost/filesystem/convenience.hpp \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h

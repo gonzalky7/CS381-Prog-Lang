@@ -1,16 +1,16 @@
 dependencies: \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/3d/ofMesh.cpp \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/3d/ofMesh.cpp \
   ../../../../libs/openFrameworks/3d/ofMesh.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofColor.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
   ../../../../libs/utf8cpp/include/utf8.h \
   ../../../../libs/utf8cpp/include/utf8/checked.h \
   ../../../../libs/utf8cpp/include/utf8/core.h \
@@ -405,21 +405,21 @@ dependencies: \
   ../../../../libs/boost/include/boost/range/detail/msvc_has_iterator_workaround.hpp \
   ../../../../libs/boost/include/boost/range/const_iterator.hpp \
   ../../../../libs/boost/include/boost/filesystem/convenience.hpp \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLUtils.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/app/ofAppRunner.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/gl/ofGLUtils.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofPixels.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/app/ofAppRunner.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofRectangle.h \
   ../../../../libs/openFrameworks/app/ofWindowSettings.h \
   ../../../../libs/openFrameworks/app/ofMainLoop.h \
   ../../../../libs/openFrameworks/app/ofAppBaseWindow.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/events/ofEvents.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/events/ofEvents.h \
   ../../../../libs/openFrameworks/events/ofEventUtils.h \
   ../../../../libs/openFrameworks/events/ofEvent.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofTimer.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFpsCounter.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofTimer.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFpsCounter.h \
   ../../../../libs/openFrameworks/app/ofBaseApp.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofBaseTypes.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMatrix4x4.h \
   ../../../../libs/openFrameworks/math/ofQuaternion.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.h
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofURLFileLoader.h

@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/communication/ofArduino.cpp \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/communication/ofArduino.cpp \
   ../../../../libs/openFrameworks/communication/ofArduino.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/events/ofEvents.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/events/ofEvents.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
   ../../../../libs/openFrameworks/events/ofEventUtils.h \
   ../../../../libs/openFrameworks/events/ofEvent.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofTimer.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFpsCounter.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofTimer.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofFpsCounter.h \
   ../../../../libs/openFrameworks/communication/ofSerial.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h \
   ../../../../libs/utf8cpp/include/utf8.h \
   ../../../../libs/utf8cpp/include/utf8/checked.h \
   ../../../../libs/utf8cpp/include/utf8/core.h \

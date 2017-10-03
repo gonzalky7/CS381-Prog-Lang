@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/Kyleen/Desktop/Developer/openFrameworks/libs/openFrameworks/video/ofQTKitPlayer.mm
+  /Users/Kyleen/Desktop/CS_381/openFrameworks/libs/openFrameworks/video/ofQTKitPlayer.mm
