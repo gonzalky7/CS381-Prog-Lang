@@ -11,8 +11,12 @@ Palindrome file is just a simple program written in C++
 
 Space-Shooter game was used using OpenFrameworks.
 
+
+
 openFrameworks is an open source C++ toolkit designed to assist the creative process by providing a simple and intuitive framework for experimentation.
 
 To run this code you would need to download openFramworks and place this file in the appropriate folder.
 
-Source code and .cpp files can be found within the folder. 
+Source code and .cpp files can be found within the folder.
+
+Here is a video of the program running on Xcode: https://www.useloom.com/share/76f70cf63570487a89f5b2638821bb9e
